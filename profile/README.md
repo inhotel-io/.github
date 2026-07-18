@@ -1,4 +1,4 @@
-## AI for people who work in travel and hospitality 👋
+## Agentic AI for people who work in travel and hospitality 👋
 
 [inHotel](https://www.inhotel.io) builds AI assistants, AI personas, and agent skills for hotels and the wider travel industry.
 
