@@ -42,7 +42,7 @@ Not every customer project can be public. That is normal. We can still share the
 
 There is no single framework or product here. Some repositories are rough experiments. Others are closer to production. Most started with a problem someone in the industry had actually run into.
 
-If you work on AI agents, A2A, MCP, hospitality software, geospatial identity, destination systems, structured data, or open source, have a look around. Issues, questions, and contributions are welcome.
+If you work on AI agents, A2A, MCP, hospitality software, geospatial identity, destination systems, structured data, or AI governance, have a look around. Issues, questions, and contributions are welcome.
 
 ## Learn more
 
