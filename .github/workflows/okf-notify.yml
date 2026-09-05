@@ -64,7 +64,7 @@ jobs:
       # path straight to okf's main from every enrolled repository.
       - name: Mint a token scoped to okf
         id: token
-        uses: actions/create-github-app-token@v2
+        uses: actions/create-github-app-token@v3
         with:
           app-id: ${{ vars.OKF_DISPATCH_APP_ID }}
           private-key: ${{ secrets.OKF_DISPATCH_PRIVATE_KEY }}
